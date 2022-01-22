@@ -14,7 +14,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     license='MIT',
     packages=['pixel2world'],
-    url="https://github.com/cwiens32/pixel2world",
+    url="https://github.com/cwiens32/pixel2world_base",
     install_requires=['pandas', 'numpy', 'xml-python', 'opencv-python'],
     keywords=['python', 'theia'],
     classifiers=[

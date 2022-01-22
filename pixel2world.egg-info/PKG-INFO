@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pixel2world
+Version: 0.0.3
+Summary: Convert pixel coordinates to world coordinates from multiple cameras
+Home-page: https://github.com/cwiens32/pixel2world_base
+Author: Casey Wiens
+Author-email: <cwiens32@gmail.com>
+License: MIT
+Keywords: python,theia
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+License-File: LICENSE
+
+Convert pixel coordinates to world coordinates from multiple cameras
+
